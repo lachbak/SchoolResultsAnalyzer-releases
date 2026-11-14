@@ -1,0 +1,8 @@
+{
+  "version": "2.0.1",
+  "url": "https://raw.githubusercontent.com/lachbak/SchoolResultsAnalyzer-releases/main/exe/SchoolResultsAnalyzer-2.0.1-x64.exe",
+  "setup_url": null,
+  "size": 63567350,
+  "sha256": "50941967929cd8426795c13a0d17110c0aed33ac40146449bb5567672349d076",
+  "notes": "• يبحث البرنامج عن التحديثات بنفسه مرة في اليوم، وزر «البحث عن تحديث» في الإعدادات ← حول البرنامج.\n• لا يرسل البرنامج أي بيانات: الاتصال بالإنترنت للتحديث فقط."
+}
